@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maaljurem
-- 👀 I’m interested in Blockchain, Artificial intelligence, Back-end develpment i general.
+- 👀 I’m interested in Blockchain, Artificial intelligence, Back-end develpment in general.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on web3 projects.
 - 📫 How to reach me: miguelaljurem@gmail.com
